@@ -1,4 +1,3 @@
-# IoT-Air-Quality-Pipeline
 # IoT Data Pipeline: Air Quality Prediction
 
 This project implements an end-to-end IoT data pipeline as part of the Advanced Computer Programming course. It covers everything from data acquisition and cleaning to model deployment using ONNX.
